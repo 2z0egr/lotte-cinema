@@ -1,0 +1,15 @@
+{
+  "short_name": "롯데시네마",
+  "name": "롯데시네마",
+  "icons": [
+    {
+      "src": "/images/lotte-cinema-favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

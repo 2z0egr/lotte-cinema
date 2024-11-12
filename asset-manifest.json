@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lotte-cinema/static/css/main.9d148fb2.css",
+    "main.js": "/lotte-cinema/static/js/main.d822ee7a.js",
+    "static/js/453.a38a9831.chunk.js": "/lotte-cinema/static/js/453.a38a9831.chunk.js",
+    "index.html": "/lotte-cinema/index.html",
+    "main.9d148fb2.css.map": "/lotte-cinema/static/css/main.9d148fb2.css.map",
+    "main.d822ee7a.js.map": "/lotte-cinema/static/js/main.d822ee7a.js.map",
+    "453.a38a9831.chunk.js.map": "/lotte-cinema/static/js/453.a38a9831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d148fb2.css",
+    "static/js/main.d822ee7a.js"
+  ]
+}
